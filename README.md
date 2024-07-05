@@ -9,7 +9,7 @@ Current <a href="https://www.linkedin.com/in/aldrebernard/"> Computer Support Sp
 - Portfolio Activity: Use the NIST Cybersecurity Framework to respond to a security incident<br>
 - Portfolio Activity Exemplar: Use Linux commands to manage file permissions<br>
 - Portfolio Activity: Apply filters to SQL queries<br>
-
+- Portfolio Activity: Document an incident with an incident handler's journal<br>
 
 
 <h3><b>Other Labs</b></h3>
