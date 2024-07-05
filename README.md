@@ -5,10 +5,10 @@ Current <a href="https://www.linkedin.com/in/aldrebernard/"> Computer Support Sp
 <br>
 <h2><u>Cybersecurity Projects:</u></h2>
 <h3>Google Cybersecurity Certification Labs</h3>
-- Portfolio Activity: Conduct a security audit
-- Portfolio Activity: Use the NIST Cybersecurity Framework to respond to a security incident
-- Portfolio Activity Exemplar: Use Linux commands to manage file permissions
-- Portfolio Activity: Apply filters to SQL queries
+- Portfolio Activity: Conduct a security audit<br>
+- Portfolio Activity: Use the NIST Cybersecurity Framework to respond to a security incident<br>
+- Portfolio Activity Exemplar: Use Linux commands to manage file permissions<br>
+- Portfolio Activity: Apply filters to SQL queries<br>
 
 
 
