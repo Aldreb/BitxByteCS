@@ -17,6 +17,6 @@ Current <a href="https://www.linkedin.com/in/aldrebernard/"> Computer Support Sp
 - Portfolio Activity: Update a file through a Python algorithm <br>
 
 <h3><b>Other Labs</b></h3>
--Nmap Network Scanning (Coursera)
+-Nmap Network Scanning (Coursera) <br>
 -WireShark Lab
 
