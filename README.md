@@ -12,7 +12,7 @@ Current <a href="https://www.linkedin.com/in/aldrebernard/"> Computer Support Sp
 - Portfolio Activity: Apply filters to SQL queries<br>
 - Portfolio Activity: Analyze a vulnerable system for a small business<br>
 - Portfolio Activity: Document an incident with an incident handler's journal<br>
-- Portfolio Activity: Finalize your incident handler's journal<br>
+- <a href=https://docs.google.com/document/d/10Fr7cl6raZTzD-Y6_sg2JIGkemUHWrRv5ohMJk5XEFc/edit?usp=sharing > Portfolio Activity: Finalize your incident handler's journal<br></a>
 - Activity: Explore signatures and logs with Suricata <br>
 - <a href=https://docs.google.com/document/d/1vo-xgQoBsyaIraNyp52pfIqTw_ba9JO5oQqliGB8jk4/edit?usp=sharing&resourcekey=0-PYXfIE3nVyP3sYicqrh3Aw> Portfolio Activity: Update a file through a Python algorithm <br></a>
 
